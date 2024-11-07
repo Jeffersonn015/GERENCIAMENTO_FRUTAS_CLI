@@ -1,4 +1,4 @@
-# Gerenciamento de Frutas
+# Gerenciamento de Frutas - CLI
 
 Este é um projeto em Java que demonstra o ArrayList
 
